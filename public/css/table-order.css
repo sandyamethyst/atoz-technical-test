@@ -1,0 +1,7 @@
+.table-borderless td.separator{
+    border-bottom: 1px solid #c7c7c7 !important;
+}
+
+.table-borderless td.status{
+    vertical-align : middle;text-align:center;
+}
